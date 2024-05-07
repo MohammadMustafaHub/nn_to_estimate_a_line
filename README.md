@@ -1,1 +1,1 @@
-# A neural network to estimate a line using pytorch
+# A neural network to estimate a sine using pytorch
